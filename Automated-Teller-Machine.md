@@ -6,7 +6,7 @@ To withdraw money from ATM:
     
     The **Select your Language screen** is displayed.
 
-2.	Select your languages.
+2.	Select your language.
 
     The **Enter your Pin screen** is displayed.
 3.	Enter your four-digit pin and press Enter.
